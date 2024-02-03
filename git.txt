@@ -1,0 +1,20 @@
+----
+/**
+Install Git via Homebrew (recommended):
+
+Open Terminal.
+Install Homebrew by pasting the following command and following the on-screen instructions:
+- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+Once Homebrew is installed, install Git by running:
+- brew install git
+
+Verify Installation:
+
+In the Terminal, run the following command to verify the installation:
+- git --version
+
+**\
+
+MacOS
